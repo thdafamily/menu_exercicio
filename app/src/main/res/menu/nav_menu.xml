@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_nike"
+            android:icon="@drawable/nikelogo"
+            android:title="Nike"/>
+        <item
+            android:id="@+id/nav_esporte"
+            android:icon="@drawable/icesporte"
+            android:title="Esportes e Treino"/>
+        <item
+            android:id="@+id/nav_calcado"
+            android:icon="@drawable/iccalcado"
+            android:title="Calçados"/>
+        <item
+            android:id="@+id/nav_roupa"
+            android:icon="@drawable/icroupa"
+            android:title="Roupa"/>
+        <item
+            android:id="@+id/nav_lancamento"
+            android:icon="@drawable/iclancamento"
+            android:title="Lançamentos"/>
+        <item
+            android:id="@+id/nav_acess"
+            android:icon="@drawable/icacess"
+            android:title="Acessórios"/>
+
+    </group>
+</menu>
