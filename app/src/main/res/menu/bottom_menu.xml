@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/bottom_home"
+    <item android:id="@+id/bottom_inicio"
         android:title="Início"
         android:icon="@drawable/ichome"/>
     <item
@@ -11,11 +11,11 @@
         android:title=""
         android:enabled="true"/>
     <item
-        android:id="@+id/bottom_cart"
+        android:id="@+id/bottom_run"
         android:title="Nike Run Club"
         android:icon="@drawable/icnikerunclub"/>
     <item
-        android:id="@+id/bottom_menu"
+        android:id="@+id/bottom_config"
         android:title="Configurações"
         android:icon="@drawable/icconfig"/>
 </menu>

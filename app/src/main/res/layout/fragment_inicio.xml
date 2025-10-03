@@ -3,15 +3,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".EsporteFragment">
+    tools:context=".InicioFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Esporte"
+        android:text="Início"
         android:gravity="center"
         android:textColor="@color/nikecolor"
+        android:textSize="36sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Thiago Vieira da Silva"
+        android:textColor="@color/nikecolor"
+        android:gravity="end"
         android:textSize="36sp"/>
 
 </FrameLayout>
